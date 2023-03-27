@@ -1,9 +1,10 @@
 # Challenge3-PasswordGenerator
 
 ## Screenshot of website 
+![127 0 0 1_5500_index html (1)](https://user-images.githubusercontent.com/125534814/228043730-e4348c52-ab44-41c2-a1d7-06e7792fac4d.png)
 
 ## Link to GitHub Pages
-
+Click [here](https://carloscastilloflores.github.io/Challenge3-PasswordGenerator) to go to my website. 
 
 ## Description 
 
